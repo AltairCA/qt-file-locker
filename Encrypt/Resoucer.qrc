@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>JesusHolding.jpg</file>
+        <file>MARY_CHILD2.jpg</file>
+        <file>FileLock_512.png</file>
+        <file>a.mp3</file>
+    </qresource>
+</RCC>
